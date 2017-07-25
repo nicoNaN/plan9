@@ -1,5 +1,7 @@
 # Building & installing amd64 kernel on 9front
 
+Current as of `9front-5966.df2c352ae695`
+
 ```
 % cd /
 % rc /sys/lib/rootstub
